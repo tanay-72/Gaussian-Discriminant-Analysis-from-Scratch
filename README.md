@@ -26,3 +26,7 @@ This project implements **Gaussian Discriminant Analysis (LDA)** from scratch us
 - Linear decision boundary
 - Numerical stability in matrix inversion
 
+
+## How to run
+```bash
+python GDA_cancerPrediction.py
